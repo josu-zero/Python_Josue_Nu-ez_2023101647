@@ -1,27 +1,31 @@
 '''
-suma
+Suma
 '''
+
 n1=3
 n2=4
-print ("La suma es: ",n1+n2)
+print("La suma es:",n1+n2)
 
 '''
-suma
+Resta
 '''
+
 n1=3
 n2=4
-print ("La resta es: ",n1-n2)
+print("La resta es:",n1-n2)
 
 '''
-multi
+Mult
 '''
+
 n1=3
 n2=4
-print ("La multiplicacion es: ",n1*n2)
+print("La mult es:",n1*n2)
 
 '''
-div
+Div
 '''
+
 n1=3
 n2=4
-print ("La division es: ",n1/n2)
+print("La div es:",n1/n2)

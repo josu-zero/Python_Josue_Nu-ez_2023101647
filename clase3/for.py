@@ -1,10 +1,10 @@
 '''
 Bucle for
+
 '''
 
-for i in [6,8,9,4,7]:
-    print(f"Datos: {i}")
+array=["futbol","PC",18.6,18,[6,7,10.5],True,False]
 
-    data=[6,8,9,4,7]
-    for i in data:
-        print(f"Datos: {i}")
+
+for i in array:
+    print(f"Datos: {i}")

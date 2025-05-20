@@ -1,8 +1,10 @@
 '''
-while - mientras que 
-'''
-numero=0
+While- mientras que
 
-while numero < 20:
-    print(numero)
-    numero +=1
+'''
+
+i=20;
+
+while i <= 20:
+    print("Unida","Index:",i)
+    i +=1
